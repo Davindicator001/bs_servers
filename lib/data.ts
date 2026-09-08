@@ -7,7 +7,7 @@ export interface InnerGroup {
   mature?: boolean;
 }
 
-export const MAIN_WHATSAPP_LINK = 'https://chat.whatsapp.com/bs-servers-main';
+export const MAIN_WHATSAPP_LINK = 'https://chat.whatsapp.com/bs-realms-main';
 
 export const INNER_GROUPS: InnerGroup[] = [
   { name: 'BS Realms', iconName: 'Globe', accent: 'emerald', link: 'https://chat.whatsapp.com/bs-realms', span: 'lg' },
@@ -113,7 +113,7 @@ export const TRANSLATIONS: Record<string, any> = {
     nav: { community: 'Community', innergroups: 'Innergroups', rules: 'Rules', join: 'Join WhatsApp' },
     hero: {
       badge: 'THE ULTIMATE MINECRAFT COMMUNITY ON WHATSAPP',
-      title: 'Welcome to BS Servers',
+      title: 'Welcome to BS Realms',
       subtitle: 'The ultimate Minecraft community on WhatsApp. Find your realm, join the adventure, and forge lasting friendships.',
       cta: 'Join Community',
       secondary: 'Explore Innergroups',
@@ -121,7 +121,7 @@ export const TRANSLATIONS: Record<string, any> = {
     },
     groups: {
       title: 'Thirteen Realms Await You',
-      subtitle: 'Choose your path. Each innergroup is a vibrant community inside BS Servers tailored for specific playstyles.',
+      subtitle: 'Choose your path. Each innergroup is a vibrant community inside BS Realms tailored for specific playstyles.',
       warning: '18+ Strictly Required',
       join: 'Open Group',
     },
@@ -145,7 +145,7 @@ export const TRANSLATIONS: Record<string, any> = {
       social: 'Follow Us',
       rights: 'All rights reserved.',
       joinCta: 'Ready to Join the Adventure?',
-      made: 'Crafted for the BS Servers Community',
+      made: 'Crafted for the BS Realms Community',
     },
     modal18: {
       title: 'Age Verification Required',
@@ -154,7 +154,7 @@ export const TRANSLATIONS: Record<string, any> = {
       cancel: 'Go Back',
     },
     modalRules: {
-      title: 'BS Servers Community Rules',
+      title: 'BS Realms Community Rules',
       subtitle: 'Please adhere to these guidelines to maintain a fun, safe, and respectful environment for everyone.',
       close: 'Got It',
     },
@@ -166,7 +166,7 @@ export const TRANSLATIONS: Record<string, any> = {
       { title: 'Follow Admin Orders', desc: 'Respect decisions and moderation directions given by community admins.' },
     ],
     descriptions: {
-      'BS Realms': 'The flagship survival and creative realms of BS Servers.',
+      'BS Realms': 'The flagship survival and creative realms of BS Realms.',
       Skills: 'Master skills, level up your character, and build your legacy.',
       'Addons and Mods': 'Custom addons, mods, and resource packs curated by the community.',
       'PVP ⚔️': 'Prove your might in ranked and casual PvP arenas.',
@@ -186,7 +186,7 @@ export const TRANSLATIONS: Record<string, any> = {
     nav: { community: 'Comunidad', innergroups: 'Subgrupos', rules: 'Reglas', join: 'Unirse' },
     hero: {
       badge: 'LA COMUNIDAD DEFINITIVA DE MINECRAFT EN WHATSAPP',
-      title: 'Bienvenido a BS Servers',
+      title: 'Bienvenido a BS Realms',
       subtitle: 'La comunidad definitiva de Minecraft en WhatsApp. Encuentra tu reino y únete a la aventura.',
       cta: 'Unirse a la Comunidad',
       secondary: 'Explorar Subgrupos',
@@ -194,7 +194,7 @@ export const TRANSLATIONS: Record<string, any> = {
     },
     groups: {
       title: 'Trece Reinos te Esperan',
-      subtitle: 'Elige tu camino. Cada subgrupo es una comunidad vibrante dentro de BS Servers.',
+      subtitle: 'Elige tu camino. Cada subgrupo es una comunidad vibrante dentro de BS Realms.',
       warning: 'Solo 18+',
       join: 'Abrir Grupo',
     },
@@ -218,7 +218,7 @@ export const TRANSLATIONS: Record<string, any> = {
       social: 'Síguenos',
       rights: 'Todos los derechos reservados.',
       joinCta: '¿Listo para unirte a la aventura?',
-      made: 'Creado para la Comunidad BS Servers',
+      made: 'Creado para la Comunidad BS Realms',
     },
     modal18: {
       title: 'Verificación de Edad Requerida',
@@ -227,7 +227,7 @@ export const TRANSLATIONS: Record<string, any> = {
       cancel: 'Volver',
     },
     modalRules: {
-      title: 'Reglas de la Comunidad BS Servers',
+      title: 'Reglas de la Comunidad BS Realms',
       subtitle: 'Respeta estas normas para mantener un entorno divertido y seguro.',
       close: 'Entendido',
     },
@@ -259,7 +259,7 @@ export const TRANSLATIONS: Record<string, any> = {
     nav: { community: 'Communauté', innergroups: 'Sous-groupes', rules: 'Règles', join: 'Rejoindre' },
     hero: {
       badge: 'LA COMMUNAUTÉ MINECRAFT ULTIME SUR WHATSAPP',
-      title: 'Bienvenue sur BS Servers',
+      title: 'Bienvenue sur BS Realms',
       subtitle: 'La communauté Minecraft ultime sur WhatsApp. Trouvez votre royaume et rejoignez l’aventure.',
       cta: 'Rejoindre la Communauté',
       secondary: 'Explorer les Sous-groupes',
@@ -267,7 +267,7 @@ export const TRANSLATIONS: Record<string, any> = {
     },
     groups: {
       title: 'Treize Royaumes Vous Attendent',
-      subtitle: 'Choisissez votre voie. Chaque sous-groupe est une communauté passionnée au sein de BS Servers.',
+      subtitle: 'Choisissez votre voie. Chaque sous-groupe est une communauté passionnée au sein de BS Realms.',
       warning: 'Réservé aux +18',
       join: 'Ouvrir le Groupe',
     },
@@ -291,7 +291,7 @@ export const TRANSLATIONS: Record<string, any> = {
       social: 'Suivez-nous',
       rights: 'Tous droits réservés.',
       joinCta: 'Prêt à rejoindre l’aventure ?',
-      made: 'Conçu pour la Communauté BS Servers',
+      made: 'Conçu pour la Communauté BS Realms',
     },
     modal18: {
       title: 'Vérification d’âge requise',
@@ -300,7 +300,7 @@ export const TRANSLATIONS: Record<string, any> = {
       cancel: 'Retour',
     },
     modalRules: {
-      title: 'Règles de la Communauté BS Servers',
+      title: 'Règles de la Communauté BS Realms',
       subtitle: 'Veuillez respecter ces règles pour garantir une ambiance saine et conviviale.',
       close: 'Compris',
     },
@@ -332,7 +332,7 @@ export const TRANSLATIONS: Record<string, any> = {
     nav: { community: 'Comunidade', innergroups: 'Subgrupos', rules: 'Regras', join: 'Entrar' },
     hero: {
       badge: 'A COMUNIDADE DEFINITIVA DE MINECRAFT NO WHATSAPP',
-      title: 'Bem-vindo à BS Servers',
+      title: 'Bem-vindo à BS Realms',
       subtitle: 'A comunidade definitiva de Minecraft no WhatsApp. Encontre seu reino e entre na aventura.',
       cta: 'Entrar na Comunidade',
       secondary: 'Explorar Subgrupos',
@@ -340,7 +340,7 @@ export const TRANSLATIONS: Record<string, any> = {
     },
     groups: {
       title: 'Treze Reinos Esperam por Você',
-      subtitle: 'Escolha seu caminho. Cada subgrupo é uma comunidade vibrante dentro da BS Servers.',
+      subtitle: 'Escolha seu caminho. Cada subgrupo é uma comunidade vibrante dentro da BS Realms.',
       warning: 'Apenas 18+',
       join: 'Abrir Grupo',
     },
@@ -364,7 +364,7 @@ export const TRANSLATIONS: Record<string, any> = {
       social: 'Siga-nos',
       rights: 'Todos os direitos reservados.',
       joinCta: 'Pronto para entrar na aventura?',
-      made: 'Desenvolvido para a Comunidade BS Servers',
+      made: 'Desenvolvido para a Comunidade BS Realms',
     },
     modal18: {
       title: 'Verificação de Idade Necessária',
@@ -373,7 +373,7 @@ export const TRANSLATIONS: Record<string, any> = {
       cancel: 'Voltar',
     },
     modalRules: {
-      title: 'Regras da Comunidade BS Servers',
+      title: 'Regras da Comunidade BS Realms',
       subtitle: 'Siga estas regras para garantir um ambiente divertido e respeitoso.',
       close: 'Entendido',
     },
@@ -385,7 +385,7 @@ export const TRANSLATIONS: Record<string, any> = {
       { title: 'Siga os Admins', desc: 'Respeite as instruções da moderação.' },
     ],
     descriptions: {
-      'BS Realms': 'Mundos de sobrevivência e criação da BS Servers.',
+      'BS Realms': 'Mundos de sobrevivência e criação da BS Realms.',
       Skills: 'Aprenda habilidades e evolua no jogo.',
       'Addons and Mods': 'Addons e mods personalizados da comunidade.',
       'PVP ⚔️': 'Prove sua força em arenas PvP disputadas.',
@@ -405,7 +405,7 @@ export const TRANSLATIONS: Record<string, any> = {
     nav: { community: 'المجتمع', innergroups: 'المجموعات الفرعية', rules: 'القوانين', join: 'انضمام' },
     hero: {
       badge: 'مجتمع ماينكرافت الأفضل على واتساب',
-      title: 'مرحباً بكم في BS Servers',
+      title: 'مرحباً بكم في BS Realms',
       subtitle: 'مجتمع ماينكرافت الأفضل على واتساب. اعثر على عالمك وانضم إلى المغامرة الشيقة.',
       cta: 'انضم للمجتمع',
       secondary: 'استكشف المجموعات',
@@ -413,7 +413,7 @@ export const TRANSLATIONS: Record<string, any> = {
     },
     groups: {
       title: 'ثلاثة عشر عالماً بانتظارك',
-      subtitle: 'اختر مسارك. كل مجموعة فرعية هي مجتمع حيوي ومتكامل داخل BS Servers.',
+      subtitle: 'اختر مسارك. كل مجموعة فرعية هي مجتمع حيوي ومتكامل داخل BS Realms.',
       warning: 'للبالغين 18+ فقط',
       join: 'فتح المجموعة',
     },
@@ -437,7 +437,7 @@ export const TRANSLATIONS: Record<string, any> = {
       social: 'تابعنا',
       rights: 'جميع الحقوق محفوظة.',
       joinCta: 'هل أنت جاهز للانضمام إلى المغامرة؟',
-      made: 'صُمم لمجتمع BS Servers',
+      made: 'صُمم لمجتمع BS Realms',
     },
     modal18: {
       title: 'تأكيد العمر مطلوب',
@@ -446,7 +446,7 @@ export const TRANSLATIONS: Record<string, any> = {
       cancel: 'الرجوع',
     },
     modalRules: {
-      title: 'قوانين مجتمع BS Servers',
+      title: 'قوانين مجتمع BS Realms',
       subtitle: 'يرجى الالتزام بهاتين القواعد للحفاظ على بيئة ممتعة وآمنة للجميع.',
       close: 'فهمت',
     },
@@ -458,7 +458,7 @@ export const TRANSLATIONS: Record<string, any> = {
       { title: 'اتبع تعليمات المشرفين', desc: 'احترم القرارات والتوجيهات الصادرة من إدارة المجتمع.' },
     ],
     descriptions: {
-      'BS Realms': 'عوالم البقاء والإبداع الرئيسية لـ BS Servers.',
+      'BS Realms': 'عوالم البقاء والإبداع الرئيسية لـ BS Realms.',
       Skills: 'أتقن المهارات، ارتقِ بمستواك واصنع أسطورتك.',
       'Addons and Mods': 'إضافات ومودات وحزم موارد مخصصة من المجتمع.',
       'PVP ⚔️': 'أثبت قوتك في ساحات PvP تنافسية وودية.',
@@ -478,7 +478,7 @@ export const TRANSLATIONS: Record<string, any> = {
     nav: { community: 'समुदाय', innergroups: 'उप-समूह', rules: 'नियम', join: 'शामिल हों' },
     hero: {
       badge: 'WHATSAPP पर अंतिम MINECRAFT समुदाय',
-      title: 'BS Servers में आपका स्वागत है',
+      title: 'BS Realms में आपका स्वागत है',
       subtitle: 'WhatsApp पर अंतिम Minecraft समुदाय। अपना राज्य खोजें और रोमांच में शामिल हों।',
       cta: 'समुदाय में शामिल हों',
       secondary: 'उप-समूह देखें',
@@ -486,7 +486,7 @@ export const TRANSLATIONS: Record<string, any> = {
     },
     groups: {
       title: 'तेरह राज्य आपकी प्रतीक्षा में',
-      subtitle: 'अपना रास्ता चुनें। हर उप-समूह BS Servers के अंदर एक जीवंत समुदाय है।',
+      subtitle: 'अपना रास्ता चुनें। हर उप-समूह BS Realms के अंदर एक जीवंत समुदाय है।',
       warning: 'केवल 18+',
       join: 'समूह खोलें',
     },
@@ -510,7 +510,7 @@ export const TRANSLATIONS: Record<string, any> = {
       social: 'हमें फॉलो करें',
       rights: 'सर्वाधिकार सुरक्षित।',
       joinCta: 'रोमांच में शामिल होने के लिए तैयार?',
-      made: 'BS Servers समुदाय के लिए बनाया गया',
+      made: 'BS Realms समुदाय के लिए बनाया गया',
     },
     modal18: {
       title: 'आयु सत्यापन आवश्यक',
@@ -519,7 +519,7 @@ export const TRANSLATIONS: Record<string, any> = {
       cancel: 'वापस जाएं',
     },
     modalRules: {
-      title: 'BS Servers समुदाय नियम',
+      title: 'BS Realms समुदाय नियम',
       subtitle: 'कृपया सभी के लिए एक सुरक्षित और सम्मानजनक वातावरण बनाए रखने के लिए इन नियमों का पालन करें।',
       close: 'समझ गया',
     },
@@ -531,7 +531,7 @@ export const TRANSLATIONS: Record<string, any> = {
       { title: 'एडमिन की बात मानें', desc: 'समुदाय एडमिन के निर्देशों का पालन करें।' },
     ],
     descriptions: {
-      'BS Realms': 'BS Servers के प्रमुख सर्वाइवल और क्रिएटिव वर्ल्ड।',
+      'BS Realms': 'BS Realms के प्रमुख सर्वाइवल और क्रिएटिव वर्ल्ड।',
       Skills: 'कौशल सीखें और लेवल बढ़ाएं।',
       'Addons and Mods': 'समुदाय द्वारा चुने गए कस्टम ऐडऑन और मॉड।',
       'PVP ⚔️': 'PvP अखाड़ों में अपनी ताकत साबित करें।',

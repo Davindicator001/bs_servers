@@ -27,7 +27,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
       <div className="absolute inset-0 z-0">
         <Image
           src={heroImage}
-          alt="BS Servers Hero Background"
+          alt="BS Realms Hero Background"
           fill
           priority
           className="block h-full w-full object-cover"

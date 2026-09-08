@@ -31,11 +31,10 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenRules }) => {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-40 transition-all duration-300 ${
-        scrolled
+      className={`fixed top-0 left-0 right-0 z-40 transition-all duration-300 ${scrolled
           ? 'bg-black/80 backdrop-blur-xl border-b border-white/10 py-3 shadow-lg'
           : 'bg-transparent py-5'
-      }`}
+        }`}
     >
       <div className="mx-auto max-w-7xl px-5 sm:px-8">
         <div className="flex items-center justify-between">
@@ -46,7 +45,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenRules }) => {
               <div className="absolute inset-0 blur-md bg-emerald-400/40 -z-10" />
             </div>
             <span className="text-lg font-bold tracking-tight text-white">
-              BS <span className="text-emerald-400">Servers</span>
+              BS <span className="text-emerald-400">Realms</span>
             </span>
           </a>
 

@@ -70,13 +70,13 @@ export const Footer: React.FC<FooterProps> = ({ onOpenRules }) => {
             <div className="relative h-7 w-7 overflow-hidden rounded-lg bg-emerald-500/10 border border-emerald-500/30 p-0.5">
               <Image
                 src="/images/logo.png"
-                alt="BS Servers Logo"
+                alt="BS Realms Logo"
                 fill
                 className="object-contain"
               />
             </div>
             <span className="text-base font-bold text-white">
-              BS <span className="text-emerald-400">Servers</span>
+              BS <span className="text-emerald-400">Realms</span>
             </span>
           </a>
 
@@ -115,7 +115,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenRules }) => {
 
         {/* Copyright */}
         <div className="mt-8 flex flex-col items-center justify-between gap-2 text-center text-xs text-white/40 md:flex-row border-t border-white/5 pt-6">
-          <p>© {year} BS Servers. {t.footer.rights}</p>
+          <p>© {year} BS Realms. {t.footer.rights}</p>
           <p>{t.footer.made}</p>
         </div>
       </div>
